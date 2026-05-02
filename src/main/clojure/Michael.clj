@@ -16,7 +16,7 @@
 	)
 )
 
-
+;; Intersect Function
 (defn intersect [lizt1 lizt2]
 	(cond
 		(empty? lizt1) 
